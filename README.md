@@ -2,7 +2,7 @@
 
 A developer from Austria.
 
-Right now I'm expanding my skills with C# and Python by myself, as well as learning about Cyber Security and Ethical Hacking @ZeroToMastery.
+Right now I'm expanding my skills with C# and Machine learning by the University of Michigan, as well as learning about Cyber Security and Ethical Hacking @ZeroToMastery.
 
 
 
