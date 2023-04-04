@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Domi</h1>
+<h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">A passionate Software developer and Machine Learning Engineer and AI developer from Austria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srynext&label=Profile%20views&color=0e75b6&style=flat" alt="srynext" /> </p>
