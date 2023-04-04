@@ -2,7 +2,11 @@
 
 A developer from Austria.
 
-Right now I'm expanding my skills with C# and Machine learning by the University of Stanford @ coursera.com, as well as learning about Cyber Security and Ethical Hacking @ZeroToMastery.
+I have several Certificates in Python, Machine Learning and Artificial Intelligence.
+
+Currently my learning Focus is on Artificial Intelligence
+
+If you got any Questions, feel free to ask :)
 
 
 
