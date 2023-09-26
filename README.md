@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srynext&label=Profile%20views&color=0e75b6&style=flat" alt="srynext" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srynext" alt="srynext" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mic36404" target="blank"><img src="https://img.shields.io/twitter/follow/mic36404?logo=twitter&style=for-the-badge" alt="mic36404" /></a> </p>
 
 - 🔭 I’m currently working on [NeuroMind](https://github.com/SryNext/Virtueller-Therapeut)
